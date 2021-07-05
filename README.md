@@ -8,6 +8,6 @@
 ![2](https://github.com/haomingdouranggouqil/mozhe-doc-merge/blob/main/2.png)
 - 运行python文件或双击运行exe文件，在弹出的命令行窗口输入想要提取出的书籍对应的文件夹名称，如“500-遗音”，然后回车。
 ![3](https://github.com/haomingdouranggouqil/mozhe-doc-merge/blob/main/3.png)
-- 生成一个Markdown文件，
+- 生成一个Markdown文件
 ![4](https://github.com/haomingdouranggouqil/mozhe-doc-merge/blob/main/4.png)
 ![5](https://github.com/haomingdouranggouqil/mozhe-doc-merge/blob/main/5.png)
